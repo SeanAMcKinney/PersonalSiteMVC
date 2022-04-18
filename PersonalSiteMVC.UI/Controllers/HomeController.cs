@@ -33,6 +33,8 @@ namespace PersonalSiteMVC.UI.Controllers
             SmtpClient smtp = new SmtpClient("mail.mckinneywebdev.com");
             NetworkCredential cred = new NetworkCredential("administrator@mckinneywebdev.com", "eight8ate*");
 
+            smtp.Port = 8889;
+
             smtp.Credentials = cred;
             smtp.Send(mm);
             return Json(cvm);

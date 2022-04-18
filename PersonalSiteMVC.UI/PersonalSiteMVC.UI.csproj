@@ -170,6 +170,14 @@
     <Content Include="assets\img\testimonials\testimonials-3.jpg" />
     <Content Include="assets\img\testimonials\testimonials-4.jpg" />
     <Content Include="assets\img\testimonials\testimonials-5.jpg" />
+    <Content Include="assets\accordion\jquery-ui.css" />
+    <Content Include="assets\accordion\jquery-ui.js" />
+    <Content Include="assets\accordion\jquery-ui.min.css" />
+    <Content Include="assets\accordion\jquery-ui.min.js" />
+    <Content Include="assets\accordion\jquery-ui.structure.css" />
+    <Content Include="assets\accordion\jquery-ui.structure.min.css" />
+    <Content Include="assets\accordion\jquery-ui.theme.css" />
+    <Content Include="assets\accordion\jquery-ui.theme.min.css" />
     <Content Include="assets\js\main.js" />
     <Content Include="assets\js\original_scripts\bootstrap.js" />
     <Content Include="assets\js\original_scripts\bootstrap.min.js" />
@@ -247,6 +255,9 @@
     <Content Include="Content\css\bootstrap.rtl.css" />
     <Content Include="Content\css\bootstrap.rtl.min.css" />
     <Content Include="Content\css\style.css" />
+    <Content Include="Content\img\ThePickleballStorePersonalSitePic.PNG" />
+    <Content Include="Content\img\ToDoAppPersonalSite.PNG" />
+    <Content Include="Content\Smoothness-Theme.css" />
     <Content Include="Content\img\apple-touch-icon.png" />
     <Content Include="Content\img\Clasmates\Alex.gif" />
     <Content Include="Content\img\Clasmates\Austin.jpg" />
