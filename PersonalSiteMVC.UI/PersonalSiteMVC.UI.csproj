@@ -256,6 +256,7 @@
     <Content Include="Content\css\bootstrap.rtl.min.css" />
     <Content Include="Content\css\style.css" />
     <Content Include="Content\img\ThePickleballStorePersonalSitePic.PNG" />
+    <Content Include="Content\img\ToDoAPIPic.PNG" />
     <Content Include="Content\img\ToDoAppPersonalSite.PNG" />
     <Content Include="Content\Smoothness-Theme.css" />
     <Content Include="Content\img\apple-touch-icon.png" />
