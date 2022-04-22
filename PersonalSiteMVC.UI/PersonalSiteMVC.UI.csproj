@@ -148,6 +148,7 @@
     <Content Include="assets\img\favicon\MWDfavicon_192x192.png" />
     <Content Include="assets\img\favicon\MWDfavicon_Apple_iTouch.png" />
     <Content Include="assets\img\hero-bg.jpg" />
+    <Content Include="assets\img\personalsitepicforJandSSATProject.PNG" />
     <Content Include="assets\img\placeholderpersonalsite.jpg" />
     <Content Include="assets\img\portfolio\CatitudesProjectLinkPic.jpg" />
     <Content Include="assets\img\portfolio\Dungeon_App_Portfolio_Pic.JPG" />
